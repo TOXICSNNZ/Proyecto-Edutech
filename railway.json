@@ -1,7 +1,0 @@
-{
-  "build": { "builder": "NIXPACKS" },
-  "deploy": {
-    "root": "edutech",
-    "restartPolicyType": "ON_FAILURE"
-  }
-}
